@@ -62,12 +62,12 @@ pip install -r requirements.txt
 4️⃣ **Set Up Environment Variables**  
 Create a `.env` file in the root directory:
 ```
-GEMINILLMKEY=your_gemini_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 5️⃣ **Run the App**
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
